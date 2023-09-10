@@ -1,0 +1,8 @@
+Imp key factors
+1)Make pivot Table to combine the rows and make a set , to plot graphs and charts
+
+2)Clean the data in Excel too Using Excel formulae
+
+3)Try to make groups then pivot Table
+
+4)You can merge cells(through Icon) and make Dashboards through Excel too..
